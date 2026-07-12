@@ -3,7 +3,7 @@ export default defineAppConfig({
     site: {
       name: 'shadcn-docs',
       description: 'Beautifully designed Nuxt Content template built with shadcn-vue. Customizable. Compatible. Open Source.',
-      ogImage: '/hero.png',
+      ogImage: '/hero.webp',
       ogImageComponent: 'ShadcnDocs',
       ogImageColor: 'light',
       umami: {
@@ -28,8 +28,8 @@ export default defineAppConfig({
       title: 'shadcn-docs',
       showTitle: true,
       logo: {
-        light: '/logo.svg',
-        dark: '/logo-dark.svg',
+        light: '/logo.webp',
+        dark: '/logo.webp',
       },
       border: false,
       darkModeToggle: true,

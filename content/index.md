@@ -7,7 +7,7 @@ description: Beautifully designed Nuxt Content template built with shadcn-vue. C
 ::hero
 ---
 announcement:
-  title: 'NLFTs ltd X Ryn Enterprice'
+  title: 'NLFTs ltd X Prataryn'
   icon: 'vscode-icons:file-type-nuxt'
   to: https://abjad.xyz
 actions:
@@ -35,6 +35,42 @@ Bergabunglah dengan program eksklusif Anggota Developer NLFTs. Temukan modul, ko
 ::
 
 ::trusted-by
+::
+
+::section-divider
+::
+
+::how-it-works
+::
+
+::section-divider
+::
+
+::deploy
+::
+
+::section-divider
+::
+
+::testimonials
+::
+
+::section-divider
+::
+
+::BlogSec
+::
+
+::section-divider
+::
+
+::Testimoni2
+::
+
+::section-divider
+::
+
+::Cta
 ::
 
 ::section-divider

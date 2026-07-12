@@ -70,7 +70,7 @@ npm i -D @iconify-json/collection-name
   **URL**
   <div class="space-x-2">
 
-  :smart-icon{name="/logo.svg"}
+  :smart-icon{name="/logo.webp"}
   :smart-icon{name="https://vueuse.org/favicon.svg" :size="40"}
 
   </div>
@@ -88,7 +88,7 @@ npm i -D @iconify-json/collection-name
   :smart-icon{name="🎉" :size="30"}
 
   **URL**
-  :smart-icon{name="/logo.svg"}
+  :smart-icon{name="/logo.webp"}
   :smart-icon{name="https://vueuse.org/favicon.svg" :size="40"}
   ```
 ::

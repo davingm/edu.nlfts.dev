@@ -70,7 +70,7 @@ You can put iconify icons, emojis and urls in `smart-icon`. Smart icon will rend
   **URL**
   <div class="space-x-2">
 
-  :smart-icon{name="/logo.svg"}
+  :smart-icon{name="/logo.webp"}
   :smart-icon{name="https://vueuse.org/favicon.svg" :size="40"}
 
   </div>
@@ -88,7 +88,7 @@ You can put iconify icons, emojis and urls in `smart-icon`. Smart icon will rend
 :smart-icon{name="🎉" :size="30"}
 
 **URL**
-:smart-icon{name="/logo.svg"}
+:smart-icon{name="/logo.webp"}
 :smart-icon{name="https://vueuse.org/favicon.svg" :size="40"}
 ```
 ::

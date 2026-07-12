@@ -2,6 +2,16 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   extends: ['..'],
+
+  // Static Site Generation
+  ssr: true,
+  nitro: {
+    prerender: {
+      crawlLinks: true,
+      routes: ['/', '/webinars'],
+    },
+  },
+
   i18n: {
     defaultLocale: 'id',
     locales: [

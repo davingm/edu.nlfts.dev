@@ -86,7 +86,7 @@ toc: false
     Beautifully designed components that you can copy and paste into your apps.
 
     #right
-    ![logo](/logo.svg)
+    ![logo](/logo.webp)
     ::
   ::
   ```mdc
@@ -112,7 +112,7 @@ toc: false
   Beautifully designed components that you can copy and paste into your apps.
 
   #right
-  ![logo](/logo.svg)
+  ![logo](/logo.webp)
   ::
   ```
 ::

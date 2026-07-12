@@ -9,7 +9,7 @@ export default defineI18nConfig(() => ({
       'Create Issues': 'Buat Masalah',
 
       // Footer
-      'FOOTER_CREDIT': 'Di Miliki Oleh [**NLFTs ltd x Ryn Enterpice**](https://abjad.xyz/)',
+      'FOOTER_CREDIT': 'Di Miliki Oleh [**NLFTs ltd x Prataryn**](https://abjad.xyz/)',
       'Sponsor Me': 'Dukung Saya',
     },
   },
