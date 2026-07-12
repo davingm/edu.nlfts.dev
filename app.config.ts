@@ -89,7 +89,7 @@ export default defineAppConfig({
       links: [
         {
           icon: 'lucide:coffee',
-          to: 'https://ko-fi.com/ztl_uwu',
+          to: 'https://saweria.co/nlfts',
           target: '_blank',
         },
         {
@@ -172,7 +172,7 @@ export default defineAppConfig({
         {
           icon: 'lucide:heart',
           title: 'Sponsor Me',
-          to: 'https://ko-fi.com/ztl_uwu',
+          to: 'https://saweria.co/nlfts',
           target: '_blank',
         },
         {
@@ -222,7 +222,7 @@ export default defineAppConfig({
       iconLinks: [
         {
           icon: 'lucide:coffee',
-          to: 'https://ko-fi.com/ztl_uwu',
+          to: 'https://saweria.co/nlfts',
           target: '_blank',
         },
         {

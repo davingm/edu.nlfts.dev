@@ -20,7 +20,7 @@ actions:
   - name: 赞助
     variant: outline
     target: _blank
-    to: https://ko-fi.com/ztl_uwu
+    to: https://saweria.co/nlfts
     leftIcon: 'lucide:heart'
 ---
 

@@ -24,7 +24,7 @@ badges:
       - icon: lucide:twitter
         to: https://x.com/ZTL_UwU
       - icon: lucide:coffee
-        to: https://ko-fi.com/ztl_uwu
+        to: https://saweria.co/nlfts
     ---
     ::
     ::team-card
@@ -39,7 +39,7 @@ badges:
       - icon: lucide:twitter
         to: https://x.com/ZTL_UwU
       - icon: lucide:coffee
-        to: https://ko-fi.com/ztl_uwu
+        to: https://saweria.co/nlfts
     ---
     ::
   ::
@@ -57,7 +57,7 @@ badges:
     - icon: lucide:twitter
       to: https://x.com/ZTL_UwU
     - icon: lucide:coffee
-      to: https://ko-fi.com/ztl_uwu
+      to: https://saweria.co/nlfts
   ---
   ::
 
@@ -73,7 +73,7 @@ badges:
     - icon: lucide:twitter
       to: https://x.com/ZTL_UwU
     - icon: lucide:coffee
-      to: https://ko-fi.com/ztl_uwu
+      to: https://saweria.co/nlfts
   ---
   ::
 ::
