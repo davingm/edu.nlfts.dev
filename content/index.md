@@ -15,7 +15,7 @@ actions:
     to: /getting-started/introduction
   - name: GitHub
     variant: outline
-    to: https://github.com/ZTL-UwU/shadcn-docs-nuxt
+    to: https://github.com/nlfts
     leftIcon: 'lucide:github'
   - name: Sponsor
     variant: outline
